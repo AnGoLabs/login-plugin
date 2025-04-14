@@ -17,7 +17,7 @@ AuthKit é um plugin reutilizável de autenticação para projetos em Go usando 
 ## 📦 Instalação
 
 ```bash
-go get github.com/seunome/login-plugin
+go get github.com/angolabs/login-plugin
 ```
 
 > Certifique-se de ter iniciado um módulo Go com `go mod init` antes disso.
